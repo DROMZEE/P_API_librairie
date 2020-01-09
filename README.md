@@ -5,6 +5,8 @@ Projet pour decouvrir les API donné dans le cadre de la formation "Développeur
 * Ma petite librairie – Projet API REST
 * Durée estimée : 1 jour
 
+[La réponse est détaillée sur un notebook ici : api_librairie.ipynb](api_librairie.ipynb) 
+
 ## Objectifs
 
 L’objectif de ce projet est de comprendre et maitriser la communication avec une API REST.
