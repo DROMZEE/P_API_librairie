@@ -1,0 +1,3 @@
+python test_cmd3.py get book "Dr. Kaitlyn Ratke"
+python test_cmd3.py get books 10
+python test_cmd3.py get commentaires 0180338d-9d81-4057-bed4-b876012e8ead
